@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Muhammad Hamza Khan  
 
 ## 👨‍💻 About Me  
-- 🎓 IT Student (5th Semester) | Aspiring Software Engineer  
-- 💡 Strong in C++, C#, ASP.NET Core & SQL  
-- 🌱 Currently learning JavaScript, AJAX & Python  
+- 🎓 IT Student (6th Semester) | Aspiring Software Engineer  
+- 💡 Strong in C++, C#, ASP.NET Core, SQL & Python  
+- 🌱 Currently learning JavaScript, AJAX  
 - 🤖 Interested in Backend Development, Databases, AI Integration & Prompt Engineering  
-- 🚀 Building real-world projects like **Bakar Lake Resort Web App**  
+- 🚀 Building real-world projects like **Bakar Lake Resort Web App**  **BookNest app**
 - 📊 Problem Solver (100+ LeetCode Questions)  
 
 ---
@@ -34,16 +34,16 @@
 
 ## 📌 Featured Projects  
 
-- 🌐 [Bakar Lake Resort Web App](#) — ASP.NET Core MVC project with booking system & payment integration  
-- 💻 [SQL Practice Repo](#) — SQL Server queries & normalization exercises  
+- 🌐 [Bakar Lake Resort Web App](#) — ASP.NET Core MVC project with booking system & payment integration
+- 🌐 [BookNest Web App](#) — ASP.NET Core MVC project buy books & payment integration
 - 🧩 [LeetCode Solutions](#) — 100+ DSA problems solved in C++  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-khan593)  
 📧 Email: your-email@example.com  
 
 ---
-⭐️ From [Hamzakhan12345](https://github.com/Hamzakhan12345)
+⭐️ From [Hamzakhan](https://github.com/Hamzakhan593)
