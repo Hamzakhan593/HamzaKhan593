@@ -26,16 +26,16 @@
 
 ## 📊 GitHub Stats  
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzakhan12345&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan12345&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Hamzakhan12345&theme=radical)  
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzakhan593&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhan593&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Hamzakhan593&theme=radical)  
 
 ---
 
 ## 📌 Featured Projects  
 
 - 🌐 [Bakar Lake Resort Web App](#) — ASP.NET Core MVC project with booking system & payment integration
-- 🌐 [BookNest Web App](#) — ASP.NET Core MVC project buy books & payment integration
+- 🌐 [BookNest Web App](#) — ASP.NET Core MVC project buy books with payment integration
 - 🧩 [LeetCode Solutions](#) — 100+ DSA problems solved in C++  
 
 ---
@@ -43,7 +43,7 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-khan593)  
-📧 Email: your-email@example.com  
+📧 Email: hamzakhanpathan593@gmail.com  
 
 ---
 ⭐️ From [Hamzakhan](https://github.com/Hamzakhan593)
