@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Hamza Khan  
 
-<!--
-**Hamzakhan593/HamzaKhan593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🎓 IT Student (6th Semester) | Software Engineer  
+- 💡 Strong in Python C++, C#, ASP.NET Core & SQL  
+- 🌱 Currently learning JavaScript, AJAX  
+- 🤖 Interested in Backend Development, Databases, AI Integration & Prompt Engineering  
+- 🚀 Building real-world projects like **Bakar Lake Resort Web App**  
 
-Here are some ideas to get you started:
+## 🛠 What I Do  
+- 💻 FullStack Developer (C#, ASP.NET Core, SQL Server, react)  
+- 🐍 Learning Python for AI & Automation  
+- 📊 Problem Solving (100+ LeetCode Questions)  
+- 🌍 Exploring Full-Stack Development & AI-powered apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me  
+**linkedin** www.linkedin.com/in/hamza-khan593
