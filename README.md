@@ -5,7 +5,7 @@
 - 💡 Strong in C++, C#, ASP.NET Core, SQL & Python  
 - 🌱 Currently learning JavaScript, AJAX  
 - 🤖 Interested in Backend Development, Databases, AI Integration & Prompt Engineering  
-- 🚀 Building real-world projects like **Bakar Lake Resort Web App**  **BookNest app**
+- 🚀 Building real-world projects like **Bakar Lake Resort Web App** and **BookNest app**
 - 📊 Problem Solver (100+ LeetCode Questions)  
 
 ---
