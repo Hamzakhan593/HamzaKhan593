@@ -36,13 +36,15 @@
 
 - 🌐 [Bakar Lake Resort Web App](#) — ASP.NET Core MVC project with booking system & payment integration
 - 🌐 [BookNest Web App](#) — ASP.NET Core MVC project buy books with payment integration
+- 🌐 [API End Points](#) — making API Endpoints
+- 🌐 [Consume API Endpoints in Mvc Project](#) — Consuming API in MVC Project
 - 🧩 [LeetCode Solutions](#) — 100+ DSA problems solved in C++  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/hamza-khan593)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khan593)
 📧 Email: hamzakhanpathan593@gmail.com  
 
 ---
