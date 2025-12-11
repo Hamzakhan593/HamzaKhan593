@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Hamza Khan  
 
 ## 👨‍💻 About Me  
-- 🎓 IT Student (6th Semester) | Aspiring Software Engineer  
+- 🎓 IT Student (7th Semester) | Aspiring Software Engineer  
 - 💡 Strong in C++, C#, ASP.NET Core, SQL & Python  
 - 🌱 Currently learning JavaScript, AJAX  
 - 🤖 Interested in Backend Development, Databases, AI Integration & Prompt Engineering  
